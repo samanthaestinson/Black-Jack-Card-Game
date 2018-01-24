@@ -1,6 +1,5 @@
 #Sam Stinson
 #Jan 28 2015
-#Mr. Cardinale
 
 #Unit Three Project-A5 Card Game
 #BlackJack 2.0
